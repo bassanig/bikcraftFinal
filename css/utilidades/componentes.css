@@ -1,0 +1,15 @@
+.yellow-dot {
+  color: var(--p1);
+}
+
+.botao {
+  color: var(--c12);
+  padding: 16px 32px;
+  background: linear-gradient(var(--p1), var(--p3));
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.botao:hover {
+  background: linear-gradient(var(--hover-p1), var(--hover-p2));
+}
