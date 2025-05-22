@@ -9,7 +9,7 @@
   grid-template-columns: 1fr 1fr;
   max-width: 1200px;
   margin: 0 auto;
-  gap: 0 70px;
+  gap: 0 40px;
   padding: 0 20px;
 }
 
@@ -32,15 +32,7 @@
   height: 100%;
 }
 
-@media (max-width: 1250px) {
-  .introduçao h1 {
-    font-size: 2.6rem;
-  }
-  .introduçao p {
-    font-size: 1rem;
-  }
 
-}
 
 @media (max-width: 1150px) {
   .introduçao-content {
