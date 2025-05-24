@@ -12,3 +12,5 @@
 
 /* Home */
 @import url(./home/introduçao.css);
+@import url(./home/bicicletasLista.css);
+@import url(./home/tecnologia.css);

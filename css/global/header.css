@@ -1,14 +1,13 @@
 
 .header-bg {
   background-color: var(--c12);
+  padding: 20px;
 }
 
 .header {
   display: flex;
   flex-wrap: wrap;
-  max-width: 1200px;
   justify-content: space-between;
-  margin: 0 auto;
   align-items: center;
   padding: 20px;
 }
@@ -48,6 +47,7 @@
   }
 
   .navLinks {
+    display: none;
     gap: 20px;
   }
   .navLinks a {

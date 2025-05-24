@@ -22,14 +22,62 @@
 
 
 
-.cor-w {
-    color: var(--w);
+.cor-p {
+    color: var(--c12);
+}
+
+.cor-11 {
+    color: var(--c11);
+}
+
+.cor-10 {
+    color: var(--c10);
+}
+
+.cor-9 {
+    color: var(--c9);
+}
+
+.cor-8 {
+    color: var(--c8);
+}
+
+.cor-7 {
+    color: var(--c7);
+}
+
+.cor-6 {
+    color: var(--c6);
 }
 
 .cor-5 {
     color: var(--c5);
 }
 
+.cor-4 {
+    color: var(--c4);
+}
+
+.cor-3 {
+    color: var(--c3);
+}
+
+.cor-2 {
+    color: var(--c2);
+}
+
+.cor-1 {
+    color: var(--c1);
+}
+
 .cor-p1 {
     color: var(--p1);
+}
+
+.cor-w {
+    color: var(--w);
+}
+
+.yellow-dot {
+  color: var(--p1);
 }
