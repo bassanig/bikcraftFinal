@@ -39,3 +39,9 @@
 .botao:hover {
   background: linear-gradient(var(--hover-p1), var(--hover-p2));
 }
+
+@media (max-width: 350px) {
+    .link {
+    font-size: 0.5rem;
+  }
+}
