@@ -39,11 +39,10 @@
 
 
 body {
-  padding-bottom: 600px;
+
   color: #111111;
   font-family: Arial, Helvetica, sans-serif;
 }
-
 
 h1,
 h2,
@@ -71,4 +70,8 @@ img[src$=".jpg"] {
 
 span {
   display: inline-block;
+}
+
+ul {
+  list-style: none;
 }

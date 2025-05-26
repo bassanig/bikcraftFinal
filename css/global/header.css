@@ -47,7 +47,6 @@
   }
 
   .navLinks {
-    display: none;
     gap: 20px;
   }
   .navLinks a {
@@ -66,5 +65,12 @@
   }
   .navLinks a {
     font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 660px) {
+  .navLinks a {
+    padding: 12px 14px;
+    font-size: 0.65rem;
   }
 }

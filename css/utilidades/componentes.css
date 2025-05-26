@@ -4,6 +4,12 @@
   padding: 0 20px;
 }
 
+.container-grande {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding:  0 20px;
+}
+
 .link {
   display: inline-block;
   font: 500 1.5rem/1.5 "Poppins", sans-serif;
@@ -34,10 +40,26 @@
   border-radius: 5px;
   text-transform: uppercase;
   font: 600 1rem/1.35 "Poppins", sans-serif;
+  max-width: max-content;
 }
 
 .botao:hover {
   background: linear-gradient(var(--hover-p1), var(--hover-p2));
+}
+
+
+.botao-secundario {
+  color: var(--c2);
+  padding: 14px 28px;
+  background: var(--c10);
+  border-radius: 5px;
+  text-transform: uppercase;
+  font: 600 1rem/1.35 "Poppins", sans-serif;
+  max-width: max-content;
+}
+
+.botao-secundario:hover {
+  background-color: var(--c9);
 }
 
 @media (max-width: 350px) {
